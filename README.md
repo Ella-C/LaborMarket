@@ -35,7 +35,7 @@ HR岗位招聘需求行业跨度很大，但主要需求还是集中在制造业
 
 ![managers](Rplot02_managers.png)
 
-![specialist](Rplot02_specialist.png)
+![specialist](Rplot02_Specialist.png)
 
 ![assistant](Rplot02_assistant.png)
 
