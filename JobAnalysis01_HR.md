@@ -23,82 +23,82 @@
 
 ## 城市分布
 
-![managers above](IMG/h1.jpg "managers above"){width="640"}
+![managers above](h1.jpg "managers above")
 
-![managers below](IMG/h2.jpg "managers below"){width="640"}
+![managers below](h2.jpg "managers below")
 
 ## 公司行业
 
 HR岗位招聘需求行业跨度很大，但主要需求还是集中在制造业，紧随其后的服务业主要集中在软件、电商、进出品贸易行业。其中，电子技术/半导体/集成电路、机械/设备/重工两个行业侧重综合管理和专业技能；快消品、建筑/建材/工程、计算机软件三个行业侧重综合管理；汽车、贸易/进出口、互联网/电商侧重专业技能；服装/纺织、保险行业侧重HR支持辅助作用。
 
-![directors](IMG/Rplot02_directors.png)
+![directors](Rplot02_directors.png)
 
-![managers](IMG/Rplot02_managers.png){width="602"}
+![managers](Rplot02_managers.png){width="602"}
 
-![specialist](IMG/Rplot02_specialist.png)
+![specialist](Rplot02_specialist.png)
 
-![assistant](IMG/Rplot02_assistant.png)
+![assistant](Rplot02_assistant.png)
 
 ## 公司规模
 
 用工市场上500人以下企业招聘最为活跃，其中，HR总监招聘需求占66%，HR经理/主管招聘需求占65%；
 
-![directors](IMG/Rplot03_directors.png)
+![directors](Rplot03_directors.png)
 
-![managers](IMG/Rplot03_managers.png)
+![managers](Rplot03_managers.png)
 
-![specialist](IMG/Rplot03_specialist.png)
+![specialist](Rplot03_specialist.png)
 
-![assistant](IMG/Rplot03_assistant.png)
+![assistant](Rplot03_assistant.png)
 
 ## 公司类型
 
-![directors](IMG/Rplot04_directors.png)
+![directors](Rplot04_directors.png)
 
-![managers](IMG/Rplot04_managers.png)
+![managers](Rplot04_managers.png)
 
-![specialist](IMG/Rplot04_specialist.png)
+![specialist](Rplot04_specialist.png)
 
-![assistant](IMG/Rplot04_assistant.png)
+![assistant](Rplot04_assistant.png)
 
 ## 经验学历
 
-![directors](IMG/Rplot08_directors.png)
+![directors](Rplot08_directors.png)
 
-![managers](IMG/Rplot08_managers.png)
+![managers](Rplot08_managers.png)
 
-![specialist](IMG/Rplot08_specialist.png)
+![specialist](Rplot08_specialist.png)
 
-![assistant](IMG/Rplot08_assistant.png)
+![assistant](Rplot08_assistant.png)
 
-![education](IMG/Rplot08_education.png)
+![education](Rplot08_education.png)
 
 ## 任职要求
 
-![directors](IMG/Rplot05_directors.png)
+![directors](Rplot05_directors.png)
 
-![managers](IMG/Rplot05_managers.png)
+![managers](Rplot05_managers.png)
 
-![specialist](IMG/Rplot05_specialist.png)
+![specialist](Rplot05_specialist.png)
 
-![assistant](IMG/Rplot05_assistant.png)
+![assistant](Rplot05_assistant.png)
 
 ## 薪酬水平
 
-![directors](IMG/Rplot06_directors.png)
+![directors](Rplot06_directors.png)
 
-![managers](IMG/Rplot06_managers.png)
+![managers](Rplot06_managers.png)
 
-![specialist](IMG/Rplot06_specialist.png)
+![specialist](Rplot06_specialist.png)
 
-![assistant](IMG/Rplot06_assistant.png)
+![assistant](Rplot06_assistant.png)
 
 ## 福利待遇
 
-![benefits](IMG/Rplot07_benefits.png)
+![benefits](Rplot07_benefits.png)
 
 ## 特别观察(广州)
 
-![managers above](IMG/Rplot08_managersAbove.png)
+![managers above](Rplot08_managersAbove.png)
 
-![managers below](IMG/Rplot08_managersBelow.png)
+![managers below](Rplot08_managersBelow.png)
